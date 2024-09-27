@@ -4,7 +4,7 @@
 I'm Anuj Mishra, currently pursuing my studies at Galgotias University. I'm passionate about technology and constantly strive to improve my skills in programming and software development. My primary expertise lies in **C++, **Data Structures and Algorithms (DSA), **Java, and **SQL, along with a growing knowledge of many other technologies.
 
 ### 🛠 Technical Skills:
-- Programming Languages: C/C++, Java , Pyhton
+- Programming Languages: C/C++, Java , Python
 - Data Structures & Algorithms
 - Database Management: SQL
 - Version Control: Git, GitHub
